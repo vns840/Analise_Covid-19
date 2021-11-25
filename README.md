@@ -12,7 +12,7 @@ Os dados ultilizados nesse projeto tem como intuito de fazer a visualização do
 ## Documentos criados
 Nesse repositório estão presentes Jupyter Notebooks com análises de dados da covid-19, são eles:
 
-- **[covid_br.ipynb](https://github.com/cecellhax/analises_covid19/blob/main/covid_br.ipynb) :**
+- **[Analise_Covid-19.ipynb](https://github.com/vns840/Analise_Covid-19/blob/main/AnaliseCovid.ipynb) :**
 Se refere as análises dos dados do Brasil, suas regiões e estados. Foram gerados os seguintes arquivos para visualização dinâmica das informações:
 
 
