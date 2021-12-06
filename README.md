@@ -21,6 +21,7 @@ Para esse projeto ultilizei uma base de codigo aberto disponibilizada no GitHub.
 
   - [Base de Casos](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv) 
   - [Base de Obitos](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv)
+  - [Base de casos de Covis-19 no barsil](https://covid.saude.gov.br/)
 
 
 ## Citação ao Professor responsavel 
